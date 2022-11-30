@@ -1,0 +1,15 @@
+.max-width{
+    max-width: 1300px;
+    padding: 30px 80px 30px 80px;
+    margin: auto;
+}
+
+img{
+    height: 700px;
+    width: 550px;
+}
+
+.bio-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
