@@ -152,6 +152,11 @@ html{
     grid-template-columns: 1fr 1fr;
 }
 
+.projects img{
+    height: 350px;
+    width: 500px;
+}
+
 .projects, .teams{
     color:#fff;
     background: #111;
