@@ -7,11 +7,11 @@
 }
 
 img{
-    height: 700px;
+    height: 500px;
     width: 550px;
 }
 
-.bio-content {
+.project-content {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
