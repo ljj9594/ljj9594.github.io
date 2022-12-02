@@ -16,12 +16,17 @@ img{
     grid-template-columns: 1fr 1fr;
 }
 
+.bio_content .right .video{
+    width: 60%;
+    height: 50%;
+}
+
 .title{
     font-family: 'Ubuntu', sans-serif;
     margin-bottom: 20px;
 }
 
-a{
+.bio_content .right a{
     font-size: x-large;
     display: inline-block;
     background: crimson;
@@ -36,12 +41,12 @@ a{
     box-shadow: 4px 4px 1px gray;
 }
 
-a:hover{
+.bio_content a:hover{
     color: crimson;
     background: none;
 }
 
-a:active {
+.bio_content a:active {
     background-color: darkred;
     box-shadow: 4px 4px 1px gray inset;
 }
